@@ -1,7 +1,7 @@
 Hi👋,I'm Abhishek Sharma
 
 - 🌱 I’m currently learning Data Structure and Algorithms...
-- 💬 Ask me about anything. I,m ready to help !!
+- 💬 Ask me about anything, I'm happy to help !!
 - 📫 How to reach me:
 - LinkedIn---->>>>https://www.linkedin.com/in/sharma--abhishek/  
 - Insta---->>>>https://www.instagram.com/_.abhi._.sharma.__/
