@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything, I'm happy to help!!😁**
 
-- 📫 How to reach me:  **queries4abhishek@gmail.com**
+- 📫 How to reach me:  **abhishek.sharma.cs21@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhishe70393762" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishe70393762" height="30" width="40" /></a>
