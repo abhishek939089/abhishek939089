@@ -16,7 +16,7 @@
 - 📫 How to reach me:  **abhishek.sharma.cs21@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abhishe70393762" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishe70393762" height="30" width="40" /></a>
+<a href="https://twitter.com/abhishe70393762" target="blank"><img align="center" src="https://www.freepik.com/free-vector/gradient-monochrome-twitter-logo-template_62348032.htm#query=x%20logo&position=9&from_view=search&track=ais&uuid=69bccab1-0877-45e5-97bc-9ecb4cda33ee" alt="abhishe70393762" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sharma--abhishek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharma--abhishek/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100042720541098&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100042720541098&mibextid=ZbWKwL" height="30" width="40" /></a>
 <a href="https://www.instagram.com/iabhishekSharma45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abhi.sharma.18_/" height="30" width="40" /></a>
