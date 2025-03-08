@@ -4,7 +4,3 @@
 </div> -->
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 <h3 align="center">A passionate Programmer from India  💻</h3>
-
-<img align="right" alt="coding" width="400" src="https://github.com/abhishek939089/abhishek939089/blob/main/7SvE.gif">
-
-
