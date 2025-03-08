@@ -20,6 +20,6 @@
 
 
 ## 📫 Connect with me
-- 🔗 [LinkedIn]((https://www.linkedin.com/in/sharma--abhishek/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sharma--abhishek/)
 - 📧 abhishek.sharma.cs21@gmail.com
 
