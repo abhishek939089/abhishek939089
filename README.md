@@ -8,7 +8,10 @@
 
 ## 🚀 About Me
 - 🔥 Passionate about **Web Development & Problem Solving**
-- 🌱 Currently learning **Spring Boot**
+- 🌱 Currently diving deep into Spring Boot & Microservices
+- 📚 Practicing Java, DSA, and System Design for career growth
+- 📝 Love sharing knowledge on Java, Backend Development, and System Design
+- ⚡ Fun fact: I love debugging more than writing code! 😆
 
 ## 🔧 Technologies & Tools
 - 💻 Languages: Java, JavaScript
