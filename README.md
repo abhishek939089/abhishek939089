@@ -14,7 +14,7 @@
 
 ## 🔧 Technologies & Tools
 - 💻 Languages: Java, JavaScript
-- 🌐 Frontend: React.js, Tailwind CSS
+- 🌐 Frontend: React.js, Angular, Tailwind CSS
 - 🔙 Backend: Spring Boot, Node.js, Express.js
 - 📦 Database: MySQL, MongoDB, Firebase
 - 🔗 Blockchain: Solidity, Polygon, MetaMask, Starton
